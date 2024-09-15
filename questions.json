@@ -1,0 +1,890 @@
+[
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What is one of the simplest ways to reduce water waste at home?",
+      "correct_answer": "Fixing leaky faucets",
+      "incorrect_answers": ["Using a dishwasher", "Flushing more frequently", "Using hot water only"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What technique involves using mulch in gardens to reduce evaporation?",
+      "correct_answer": "Mulching",
+      "incorrect_answers": ["Tilling", "Fertilizing", "Pruning"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Low-flow faucets and showerheads help conserve water by reducing what?",
+      "correct_answer": "Water flow rate",
+      "incorrect_answers": ["Water temperature", "Water pressure", "Water purification"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Which method is effective for reducing water use in landscaping?",
+      "correct_answer": "Xeriscaping",
+      "incorrect_answers": ["Hydroponics", "Irrigation", "Crop rotation"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Using a broom instead of a hose to clean driveways saves approximately how many gallons of water?",
+      "correct_answer": "150 gallons",
+      "incorrect_answers": ["50 gallons", "300 gallons", "500 gallons"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What type of toilets use less water per flush?",
+      "correct_answer": "Dual-flush toilets",
+      "incorrect_answers": ["Standard toilets", "Composting toilets", "Gravity toilets"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Which appliance consumes the most water in a typical household?",
+      "correct_answer": "Toilet",
+      "incorrect_answers": ["Washing machine", "Dishwasher", "Shower"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What is the term for a landscape design that requires minimal irrigation?",
+      "correct_answer": "Xeriscaping",
+      "incorrect_answers": ["Aquaponics", "Agroforestry", "Permaculture"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Installing what type of system can help save water by monitoring soil moisture levels?",
+      "correct_answer": "Smart irrigation systems",
+      "incorrect_answers": ["Sprinkler systems", "Drip irrigation", "Overhead irrigation"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What is one method to reuse wastewater from sinks or showers?",
+      "correct_answer": "Greywater recycling",
+      "incorrect_answers": ["Blackwater recycling", "Irrigation runoff", "Stormwater harvesting"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What is a common rainwater collection technique used in homes?",
+      "correct_answer": "Rain barrels",
+      "incorrect_answers": ["Water reservoirs", "Aquifers", "Desalination units"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Which process removes impurities from water and makes it safe for consumption?",
+      "correct_answer": "Water purification",
+      "incorrect_answers": ["Filtration", "Distillation", "Chlorination"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What is an example of indoor water conservation?",
+      "correct_answer": "Turning off the tap while brushing teeth",
+      "incorrect_answers": ["Watering the lawn early in the morning", "Cleaning driveways with water", "Installing sprinklers"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Which type of irrigation minimizes water loss through evaporation?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Flood irrigation", "Sprinkler irrigation", "Center pivot irrigation"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Which of the following helps reduce water use in agriculture?",
+      "correct_answer": "Crop rotation",
+      "incorrect_answers": ["Pesticide use", "Over-irrigation", "Mono-cropping"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "Greywater can be used for which of the following purposes?",
+      "correct_answer": "Landscape irrigation",
+      "incorrect_answers": ["Drinking", "Cooking", "Bathing"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What is a key benefit of using drip irrigation?",
+      "correct_answer": "Reduces water waste",
+      "incorrect_answers": ["Increases water evaporation", "Increases runoff", "Decreases crop yield"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What household activity typically uses the most water?",
+      "correct_answer": "Flushing toilets",
+      "incorrect_answers": ["Showering", "Laundry", "Dishwashing"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What practice reduces water use in outdoor irrigation?",
+      "correct_answer": "Watering in the early morning or late evening",
+      "incorrect_answers": ["Watering in the afternoon", "Watering every day", "Using overhead sprinklers"]
+    },
+    {
+      "category": "Water Conservation Techniques",
+      "question": "What is a simple way to reduce water use in the shower?",
+      "correct_answer": "Install a low-flow showerhead",
+      "incorrect_answers": ["Take longer showers", "Use hotter water", "Shower with the window open"]
+    },
+  
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "What is the most water-efficient irrigation method?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Flood irrigation", "Sprinkler irrigation", "Surface irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation method is best suited for high-value crops in arid regions?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Furrow irrigation", "Center pivot irrigation", "Surface irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Sprinkler irrigation is most commonly used for which type of crops?",
+      "correct_answer": "Field crops",
+      "incorrect_answers": ["Fruit trees", "Ornamental plants", "Rice paddies"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation system is designed to minimize water runoff and evaporation?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Surface irrigation", "Furrow irrigation", "Overhead sprinklers"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Flood irrigation is considered inefficient due to high levels of what?",
+      "correct_answer": "Water waste through evaporation",
+      "incorrect_answers": ["Plant growth", "Nutrient absorption", "Water penetration"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation method can result in high water loss through evaporation in hot climates?",
+      "correct_answer": "Sprinkler irrigation",
+      "incorrect_answers": ["Drip irrigation", "Subsurface irrigation", "Flood irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation method uses underground pipes to deliver water directly to the roots?",
+      "correct_answer": "Subsurface irrigation",
+      "incorrect_answers": ["Sprinkler irrigation", "Flood irrigation", "Surface irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "What is the primary goal of efficient irrigation systems?",
+      "correct_answer": "Minimize water waste",
+      "incorrect_answers": ["Increase soil erosion", "Reduce plant growth", "Increase water use"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which type of irrigation is best for sloped terrain?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Flood irrigation", "Surface irrigation", "Sprinkler irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "What is a benefit of using efficient irrigation methods in agriculture?",
+      "correct_answer": "Water conservation",
+      "incorrect_answers": ["Increased evaporation", "Water runoff", "Higher fertilizer use"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which of the following irrigation methods is least water-efficient?",
+      "correct_answer": "Flood irrigation",
+      "incorrect_answers": ["Drip irrigation", "Sprinkler irrigation", "Subsurface irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation method provides the most uniform water distribution?",
+      "correct_answer": "Sprinkler irrigation",
+      "incorrect_answers": ["Flood irrigation", "Drip irrigation", "Furrow irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "What is the advantage of using drip irrigation over flood irrigation?",
+      "correct_answer": "It delivers water directly to the roots, minimizing waste",
+      "incorrect_answers": ["It requires less initial setup", "It increases evaporation", "It allows for more frequent watering"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation system is commonly used in greenhouses?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Flood irrigation", "Furrow irrigation", "Center pivot irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "What type of irrigation system is commonly used for large fields of crops like corn or wheat?",
+      "correct_answer": "Center pivot irrigation",
+      "incorrect_answers": ["Drip irrigation", "Furrow irrigation", "Flood irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which method of irrigation is least likely to result in soil erosion?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Flood irrigation", "Sprinkler irrigation", "Surface irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation method is recommended for sandy soils that do not retain water well?",
+      "correct_answer": "Drip irrigation",
+      "incorrect_answers": ["Flood irrigation", "Surface irrigation", "Sprinkler irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "Which irrigation method reduces the risk of waterborne diseases in crops?",
+      "correct_answer": "Subsurface irrigation",
+      "incorrect_answers": ["Sprinkler irrigation", "Flood irrigation", "Surface irrigation"]
+    },
+    {
+      "category": "Efficient Irrigation Methods",
+      "question": "What is a disadvantage of using flood irrigation?",
+      "correct_answer": "High water waste through evaporation and runoff",
+      "incorrect_answers": ["It is expensive to install", "It delivers water unevenly", "It requires constant maintenance"]
+    },
+
+    {
+            "category": "Greywater Recycling",
+            "question": "What is greywater?",
+            "correct_answer": "Wastewater from sinks, showers, and washing machines",
+            "incorrect_answers": ["Wastewater from toilets", "Rainwater", "Industrial wastewater"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which household appliance typically contributes to the majority of greywater?",
+            "correct_answer": "Washing machine",
+            "incorrect_answers": ["Dishwasher", "Toilet", "Shower"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What is a common use for treated greywater?",
+            "correct_answer": "Irrigation for gardens",
+            "incorrect_answers": ["Drinking water", "Bathing", "Cooking"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which of the following is a typical method for filtering greywater?",
+            "correct_answer": "Sand filter",
+            "incorrect_answers": ["Activated carbon filter", "UV light", "Reverse osmosis"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What should be avoided when recycling greywater?",
+            "correct_answer": "Using it for drinking",
+            "incorrect_answers": ["Using it for plant irrigation", "Using it for toilet flushing", "Using it for washing cars"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Why is greywater considered less harmful than blackwater?",
+            "correct_answer": "It contains fewer pathogens",
+            "incorrect_answers": ["It is always sterile", "It contains no chemicals", "It is more nutrient-rich"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which component is typically not included in a greywater recycling system?",
+            "correct_answer": "Blackwater treatment unit",
+            "incorrect_answers": ["Greywater filter", "Storage tank", "Distribution system"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "How can greywater systems impact household water bills?",
+            "correct_answer": "They can reduce them by lowering water consumption",
+            "incorrect_answers": ["They increase bills due to maintenance", "They have no effect on bills", "They increase bills due to installation"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What is a primary concern when implementing a greywater recycling system?",
+            "correct_answer": "Proper filtration and treatment",
+            "incorrect_answers": ["Aesthetic appeal", "Cost of installation", "Size of the system"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which type of plants are best suited for irrigation with greywater?",
+            "correct_answer": "Non-edible plants",
+            "incorrect_answers": ["Vegetable plants", "Fruit trees", "Herb gardens"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What is the main difference between greywater and blackwater?",
+            "correct_answer": "Greywater is less contaminated than blackwater",
+            "incorrect_answers": ["Greywater is more contaminated", "Greywater contains more nutrients", "Greywater comes from industrial sources"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which regulation might govern the use of greywater in your region?",
+            "correct_answer": "Local health and safety codes",
+            "incorrect_answers": ["National water quality standards", "International treaties", "Environmental protection laws"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What is a common method for storing greywater before reuse?",
+            "correct_answer": "Storage tank",
+            "incorrect_answers": ["Open pond", "Rain barrel", "Septic tank"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which of the following is not a benefit of greywater recycling?",
+            "correct_answer": "Eliminating the need for municipal water supply",
+            "incorrect_answers": ["Reducing water consumption", "Decreasing wastewater production", "Lowering irrigation costs"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What is a potential risk associated with greywater recycling?",
+            "correct_answer": "Risk of spreading pathogens if not properly treated",
+            "incorrect_answers": ["Increased water usage", "Higher energy consumption", "More chemical use"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What type of greywater system is easiest to install in a home?",
+            "correct_answer": "Simple diversion system",
+            "incorrect_answers": ["Complex treatment plant", "High-tech filtration system", "Commercial-grade system"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What maintenance is typically required for a greywater system?",
+            "correct_answer": "Regular cleaning of filters",
+            "incorrect_answers": ["Annual system replacement", "Monthly chemical treatments", "Daily inspections"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which of the following is a potential source of contamination in greywater?",
+            "correct_answer": "Cleaning products",
+            "incorrect_answers": ["Rainwater", "Well water", "Tap water"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What type of plants might be adversely affected by greywater?",
+            "correct_answer": "Sensitive or edible plants",
+            "incorrect_answers": ["Drought-tolerant plants", "Hardy shrubs", "Native grasses"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which type of soap is preferable for use in a greywater system?",
+            "correct_answer": "Biodegradable soap",
+            "incorrect_answers": ["Antibacterial soap", "Heavy-duty detergent", "Bleach-based soap"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "What is a common feature of advanced greywater recycling systems?",
+            "correct_answer": "Automatic monitoring and control",
+            "incorrect_answers": ["Manual valve adjustment", "Constant manual testing", "Visual inspection only"]
+          },
+          {
+            "category": "Greywater Recycling",
+            "question": "Which of the following is a legal consideration for greywater use?",
+            "correct_answer": "Adhering to local regulations",
+            "incorrect_answers": ["International standards", "State government approvals", "Federal guidelines"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is a key characteristic of water-efficient crops?",
+            "correct_answer": "Low water consumption",
+            "incorrect_answers": ["High nutrient needs", "Fast growth rate", "Large leaf size"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "Which crop is known for its water efficiency?",
+            "correct_answer": "Sorghum",
+            "incorrect_answers": ["Rice", "Corn", "Wheat"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is one method for growing water-efficient crops?",
+            "correct_answer": "Drip irrigation",
+            "incorrect_answers": ["Flood irrigation", "Sprinkler systems", "Surface irrigation"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What type of soil is best for water-efficient crops?",
+            "correct_answer": "Well-draining soil",
+            "incorrect_answers": ["Clay soil", "Saline soil", "Waterlogged soil"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "Why are drought-resistant crops beneficial?",
+            "correct_answer": "They reduce the need for irrigation",
+            "incorrect_answers": ["They increase water usage", "They require more fertilizers", "They grow faster but with less yield"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "Which of the following is not a water-efficient crop?",
+            "correct_answer": "Sugarcane",
+            "incorrect_answers": ["Millet", "Barley", "Quinoa"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is an advantage of using cover crops in water-efficient farming?",
+            "correct_answer": "They help retain soil moisture",
+            "incorrect_answers": ["They increase water runoff", "They require more irrigation", "They deplete soil nutrients"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "Which irrigation method is least efficient for water use?",
+            "correct_answer": "Flood irrigation",
+            "incorrect_answers": ["Drip irrigation", "Sprinkler systems", "Subsurface irrigation"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is a benefit of growing native plants in agriculture?",
+            "correct_answer": "They are adapted to local water conditions",
+            "incorrect_answers": ["They require more water", "They need special fertilizers", "They grow slower than non-natives"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is a common practice for conserving water in crop production?",
+            "correct_answer": "Mulching",
+            "incorrect_answers": ["Tilling", "Plowing", "Burning crop residue"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "Which of the following crops requires the least water?",
+            "correct_answer": "Lentils",
+            "incorrect_answers": ["Rice", "Cotton", "Potatoes"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is one feature of water-efficient crop varieties?",
+            "correct_answer": "Deep root systems",
+            "incorrect_answers": ["Shallow root systems", "Large leaves", "Rapid flowering"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is the role of crop rotation in water conservation?",
+            "correct_answer": "It helps prevent soil depletion and erosion",
+            "incorrect_answers": ["It increases water usage", "It reduces soil fertility", "It requires more fertilizers"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is the primary benefit of selecting drought-tolerant seeds?",
+            "correct_answer": "Reduced need for irrigation",
+            "incorrect_answers": ["Increased growth rate", "Higher yields", "Lower fertilizer requirements"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "Which technique can improve water use efficiency in crops?",
+            "correct_answer": "Soil moisture monitoring",
+            "incorrect_answers": ["Increased fertilization", "Frequent tilling", "Frequent harvesting"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "How can planting cover crops benefit water conservation?",
+            "correct_answer": "They reduce soil erosion and increase moisture retention",
+            "incorrect_answers": ["They decrease soil fertility", "They increase water evaporation", "They require more irrigation"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is an example of a crop with a high water use efficiency?",
+            "correct_answer": "Amaranth",
+            "incorrect_answers": ["Soybean", "Tomato", "Cucumber"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What should be avoided to maintain water efficiency in crops?",
+            "correct_answer": "Over-watering",
+            "incorrect_answers": ["Mulching", "Using efficient irrigation", "Applying appropriate fertilizers"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What is a significant advantage of utilizing water-efficient crop varieties in arid regions?",
+            "correct_answer": "Increased resilience to water scarcity",
+            "incorrect_answers": ["Higher soil fertility", "Faster growth", "Less pest resistance"]
+          },
+          {
+            "category": "Water-Efficient Crops",
+            "question": "What role do soil amendments play in water-efficient farming?",
+            "correct_answer": "They improve soil structure and water retention",
+            "incorrect_answers": ["They increase water runoff", "They decrease soil fertility", "They require more irrigation"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is the primary goal of rainwater harvesting?",
+            "correct_answer": "To collect and store rainwater for future use",
+            "incorrect_answers": ["To purify wastewater", "To desalinate seawater", "To improve soil fertility"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "Which of the following is a common method for rainwater harvesting?",
+            "correct_answer": "Roof catchment systems",
+            "incorrect_answers": ["Subsurface drip irrigation", "Greywater recycling", "Flood irrigation"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What type of container is often used to store harvested rainwater?",
+            "correct_answer": "Rain barrel",
+            "incorrect_answers": ["Septic tank", "Water tank", "Wastewater treatment tank"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is a key consideration when designing a rainwater harvesting system?",
+            "correct_answer": "Ensuring proper filtration",
+            "incorrect_answers": ["Increasing roof size", "Using expensive materials", "Minimizing storage capacity"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is the benefit of using harvested rainwater for irrigation?",
+            "correct_answer": "Reduces reliance on municipal water supply",
+            "incorrect_answers": ["Increases water bills", "Requires more maintenance", "Decreases soil moisture"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "Which part of the rainwater harvesting system captures rainwater from the roof?",
+            "correct_answer": "Gutter",
+            "incorrect_answers": ["Downspout", "Filtration system", "Storage tank"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "How can you prevent contamination in harvested rainwater?",
+            "correct_answer": "Use a first flush diverter",
+            "incorrect_answers": ["Add chlorine", "Use a UV filter", "Boil the water"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is a common use for harvested rainwater in households?",
+            "correct_answer": "Garden irrigation",
+            "incorrect_answers": ["Drinking water", "Bathing", "Cooking"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What type of filter is typically used in a rainwater harvesting system?",
+            "correct_answer": "Mesh filter",
+            "incorrect_answers": ["Activated carbon filter", "Reverse osmosis filter", "Sediment filter"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is a common challenge associated with rainwater harvesting?",
+            "correct_answer": "Variable water supply based on rainfall",
+            "incorrect_answers": ["Excessive water purification", "High energy consumption", "Limited storage space"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "Which of the following is not a common component of a rainwater harvesting system?",
+            "correct_answer": "Wastewater treatment unit",
+            "incorrect_answers": ["Gutters", "Storage tanks", "Downspouts"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What maintenance task is crucial for rainwater harvesting systems?",
+            "correct_answer": "Regular cleaning of gutters and filters",
+            "incorrect_answers": ["Weekly water testing", "Monthly chemical treatments", "Annual system replacement"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "Which type of roofing material is best for rainwater harvesting?",
+            "correct_answer": "Metal roofing",
+            "incorrect_answers": ["Asphalt shingles", "Wood shakes", "Clay tiles"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is a key benefit of using rainwater for non-potable applications?",
+            "correct_answer": "Reduces demand on potable water sources",
+            "incorrect_answers": ["Increases water treatment costs", "Requires additional treatment", "Decreases water pressure"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is an ideal location for a rainwater harvesting system?",
+            "correct_answer": "An area with consistent rainfall",
+            "incorrect_answers": ["Arid regions", "High wind areas", "Areas with heavy snowfall"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "How can harvested rainwater be used to improve landscape irrigation?",
+            "correct_answer": "By reducing reliance on municipal water",
+            "incorrect_answers": ["By increasing water usage", "By requiring more frequent irrigation", "By decreasing soil fertility"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "What is a simple way to increase the efficiency of a rainwater harvesting system?",
+            "correct_answer": "Installing a larger storage tank",
+            "incorrect_answers": ["Using smaller gutters", "Reducing filter size", "Limiting collection area"]
+          },
+          {
+            "category": "Rainwater Harvesting",
+            "question": "Which system component helps distribute harvested rainwater?",
+            "correct_answer": "Pump",
+            "incorrect_answers": ["Gutter", "Filtration system", "Downspout"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is the primary goal of desalination?",
+            "correct_answer": "To remove salt and minerals from seawater",
+            "incorrect_answers": ["To add minerals to fresh water", "To increase water temperature", "To decrease water pH"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which desalination method uses a semi-permeable membrane?",
+            "correct_answer": "Reverse osmosis",
+            "incorrect_answers": ["Distillation", "Electrodialysis", "Solar desalination"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which method is commonly used in large-scale desalination plants?",
+            "correct_answer": "Multi-effect distillation",
+            "incorrect_answers": ["Rainwater harvesting", "Greywater recycling", "Activated carbon filtration"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is a key disadvantage of desalination?",
+            "correct_answer": "High energy consumption",
+            "incorrect_answers": ["Low water quality", "High cost of operation", "Limited scalability"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which desalination method involves heating water to create steam?",
+            "correct_answer": "Distillation",
+            "incorrect_answers": ["Reverse osmosis", "Electrodialysis", "Nanofiltration"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is a common application of desalinated water?",
+            "correct_answer": "Providing fresh drinking water in arid regions",
+            "incorrect_answers": ["Industrial waste processing", "Agricultural runoff management", "Pollution control"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is a major environmental concern associated with desalination?",
+            "correct_answer": "Disposal of concentrated brine",
+            "incorrect_answers": ["Air pollution from equipment", "High land usage", "Excessive water use"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which method uses electrical currents to separate ions?",
+            "correct_answer": "Electrodialysis",
+            "incorrect_answers": ["Reverse osmosis", "Multi-effect distillation", "Solar desalination"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What type of membrane is used in reverse osmosis?",
+            "correct_answer": "Semi-permeable membrane",
+            "incorrect_answers": ["Activated carbon", "Ceramic", "Metallic"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which desalination method is known for being energy-efficient in small-scale applications?",
+            "correct_answer": "Solar desalination",
+            "incorrect_answers": ["Multi-effect distillation", "Reverse osmosis", "Electrodialysis"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is the main byproduct of the distillation desalination process?",
+            "correct_answer": "Concentrated brine",
+            "incorrect_answers": ["Fresh water vapor", "Solid salt crystals", "Clean air"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which desalination technology is used for removing salts and contaminants through evaporation?",
+            "correct_answer": "Thermal desalination",
+            "incorrect_answers": ["Reverse osmosis", "Electrodialysis", "Nanofiltration"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is a key advantage of reverse osmosis over other desalination methods?",
+            "correct_answer": "High removal efficiency of salts",
+            "incorrect_answers": ["Lower energy requirement", "Faster desalination process", "Simpler technology"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which desalination method can be powered by solar energy?",
+            "correct_answer": "Solar desalination",
+            "incorrect_answers": ["Reverse osmosis", "Electrodialysis", "Multi-effect distillation"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is one method to reduce the environmental impact of desalination?",
+            "correct_answer": "Utilizing renewable energy sources",
+            "incorrect_answers": ["Increasing water temperature", "Reducing water quality", "Minimizing maintenance"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "Which desalination method is best suited for large-scale municipal water supply?",
+            "correct_answer": "Multi-effect distillation",
+            "incorrect_answers": ["Solar desalination", "Reverse osmosis", "Electrodialysis"]
+          },
+          {
+            "category": "Desalination Methods",
+            "question": "What is a common use of desalinated water in agriculture?",
+            "correct_answer": "Irrigation in areas with limited freshwater",
+            "incorrect_answers": ["Pest control", "Soil fertilization", "Animal feed"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is a primary benefit of using low-flow fixtures?",
+            "correct_answer": "Reduced water consumption",
+            "incorrect_answers": ["Increased water pressure", "Higher energy use", "Increased installation cost"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "Which technology can automatically adjust water flow based on usage?",
+            "correct_answer": "Smart irrigation systems",
+            "incorrect_answers": ["Standard irrigation systems", "Manual sprinklers", "Traditional drip systems"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What type of technology helps monitor water usage in real-time?",
+            "correct_answer": "Water meters",
+            "incorrect_answers": ["Rain gauges", "Flow restrictors", "Water filters"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is one benefit of using a rain sensor in irrigation systems?",
+            "correct_answer": "Prevents watering during rain",
+            "incorrect_answers": ["Increases water usage", "Reduces irrigation frequency", "Increases irrigation cost"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What type of irrigation system uses a network of pipes to deliver water directly to plant roots?",
+            "correct_answer": "Drip irrigation",
+            "incorrect_answers": ["Flood irrigation", "Sprinkler systems", "Surface irrigation"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is a common feature of water-efficient washing machines?",
+            "correct_answer": "Low water usage per load",
+            "incorrect_answers": ["High energy consumption", "Large load capacity", "High water temperature"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "Which type of technology can recycle greywater for reuse in toilets and irrigation?",
+            "correct_answer": "Greywater systems",
+            "incorrect_answers": ["Rainwater harvesting", "Desalination", "Water filtration"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is a key advantage of using a water-efficient toilet?",
+            "correct_answer": "Reduced water consumption per flush",
+            "incorrect_answers": ["Increased flushing power", "Higher installation cost", "More frequent maintenance"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "Which technology helps capture and reuse condensate from air conditioning systems?",
+            "correct_answer": "Condensate recovery systems",
+            "incorrect_answers": ["Rainwater harvesting", "Greywater recycling", "Desalination"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is one example of a water-efficient landscaping practice?",
+            "correct_answer": "Using drought-tolerant plants",
+            "incorrect_answers": ["Frequent watering", "High-maintenance plants", "Non-native species"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "Which technology helps to reduce evaporation losses in irrigation?",
+            "correct_answer": "Soil moisture sensors",
+            "incorrect_answers": ["Rain sensors", "Water filters", "UV sterilizers"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is a primary advantage of using a smart irrigation controller?",
+            "correct_answer": "Optimizes water use based on weather data",
+            "incorrect_answers": ["Increases water usage", "Requires manual adjustments", "Decreases efficiency"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "Which technology helps reduce water consumption in showerheads?",
+            "correct_answer": "Low-flow showerheads",
+            "incorrect_answers": ["High-pressure showerheads", "Traditional showerheads", "Water softeners"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is a common benefit of using water-efficient dishwashers?",
+            "correct_answer": "Lower water usage per cycle",
+            "incorrect_answers": ["Increased energy consumption", "Higher detergent use", "Larger load capacity"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "Which type of irrigation system is designed to deliver water directly to the soil surface at a controlled rate?",
+            "correct_answer": "Subsurface drip irrigation",
+            "incorrect_answers": ["Sprinkler systems", "Flood irrigation", "Surface irrigation"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is the main advantage of using a dual-flush toilet?",
+            "correct_answer": "Offers two flush options to conserve water",
+            "incorrect_answers": ["Increases flush power", "Decreases flushing efficiency", "Requires more frequent repairs"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "Which technology is designed to capture and store water from air conditioning systems?",
+            "correct_answer": "Condensate recovery systems",
+            "incorrect_answers": ["Reverse osmosis", "Rainwater harvesting", "Greywater recycling"]
+          },
+          {
+            "category": "Water-Efficient Technologies",
+            "question": "What is a benefit of using a water-efficient landscape design?",
+            "correct_answer": "Reduces overall water consumption",
+            "incorrect_answers": ["Increases maintenance needs", "Requires more frequent watering", "Decreases plant diversity"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What is the main objective of the United Nations Water for Life Decade?",
+            "correct_answer": "To promote water conservation and access to clean water",
+            "incorrect_answers": ["To increase industrial water use", "To privatize water resources", "To promote water waste"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "Which international agreement aims to ensure universal access to safe drinking water and sanitation by 2030?",
+            "correct_answer": "Sustainable Development Goal 6",
+            "incorrect_answers": ["Paris Agreement", "Kyoto Protocol", "Rio Declaration"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What is the primary focus of the Global Water Partnership?",
+            "correct_answer": "Promoting integrated water resources management",
+            "incorrect_answers": ["Increasing water privatization", "Reducing water quality standards", "Promoting water consumption"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "Which organization is responsible for monitoring global water quality and availability?",
+            "correct_answer": "World Health Organization (WHO)",
+            "incorrect_answers": ["United Nations Development Programme (UNDP)", "World Trade Organization (WTO)", "International Monetary Fund (IMF)"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What is the main aim of the Water-Energy Nexus initiative?",
+            "correct_answer": "To address the interconnections between water and energy resources",
+            "incorrect_answers": ["To increase water consumption", "To promote energy inefficiency", "To separate water and energy management"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "Which initiative focuses on improving water access and sanitation in developing countries?",
+            "correct_answer": "Water.org",
+            "incorrect_answers": ["International Water Management Institute", "World Bank", "Greenpeace"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What does the term 'integrated water resources management' refer to?",
+            "correct_answer": "A comprehensive approach to managing water resources in a sustainable manner",
+            "incorrect_answers": ["A focus on increasing water consumption", "A method for privatizing water resources", "A technique for desalinating seawater"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "Which country is known for its significant investments in water recycling and reuse technologies?",
+            "correct_answer": "Israel",
+            "incorrect_answers": ["Brazil", "China", "Canada"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What is a key objective of the International Water Management Institute (IWMI)?",
+            "correct_answer": "To promote sustainable water management practices worldwide",
+            "incorrect_answers": ["To increase water consumption", "To reduce water quality standards", "To privatize water resources"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "Which global event raises awareness about the importance of freshwater resources?",
+            "correct_answer": "World Water Day",
+            "incorrect_answers": ["Earth Day", "Climate Change Summit", "Global Health Conference"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What is a key focus of the Water for Sustainable Development initiative?",
+            "correct_answer": "Ensuring water availability and quality for future generations",
+            "incorrect_answers": ["Promoting industrial water use", "Increasing water pollution", "Decreasing water access"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What is the purpose of the Water Sanitation and Hygiene (WASH) initiative?",
+            "correct_answer": "To improve water access, sanitation, and hygiene in underserved communities",
+            "incorrect_answers": ["To privatize water resources", "To increase water consumption", "To reduce water treatment standards"]
+          },
+          {
+            "category": "Global Water Policy and Initiatives",
+            "question": "What is the aim of the United Nations Environment Programme (UNEP) regarding water resources?",
+            "correct_answer": "To promote the sustainable management and conservation of water resources",
+            "incorrect_answers": ["To increase water pollution", "To privatize water resources", "To reduce water conservation efforts"]
+          }
+        ]
+      
+      
+    
+  
